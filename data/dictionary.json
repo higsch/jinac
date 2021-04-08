@@ -9,10 +9,10 @@
       "status": "Status",
       "gender": "Gender",
       "occupation": "Occupation",
-      "institutioninvestigating": "Investigating Institution",
+      "institutioninvestigating": "Investigating institution",
       "institutioninvestigating_prefix": "Investigated by",
       "province": "Province",
-      "ethnicgroup": "Ethnic Group",
+      "ethnicgroup": "Ethnicity",
       "religoiusgroup": "Religion",
       "other": "Other"
     },
@@ -51,10 +51,10 @@
       "institutioninvestigating": {
         "null": "Unknown",
         "unknown": "Unknown",
-        "ministry_of_intelligence": "Ministry of intelligence",
+        "ministry_of_intelligence": "Ministry of Intelligence",
         "judiciary": "Judiciary",
-        "irgc_intelligence": "IRGC intelligence",
-        "cyber_police": "Cyber police",
+        "irgc_intelligence": "IRGC Intelligence",
+        "cyber_police": "Cyber Police",
         "other": "Other"
       },
       "province": {
@@ -116,12 +116,12 @@
       }
     },
     "title": {
-      "heading": "Rosettes of Censorship and Persecution in Iran",
+      "heading": "Visualizing Censorship in Iran",
       "subheading": "Patterns in the repression of freedom of expression in Iran"
     },
     "intro": {
       "text1": "Since Iran’s Constitutional Revolution in 1905 and the birth of modern media in the country, successive Iranian governments have intimidated, imprisoned, tortured and killed journalists and activists who use the media to share information with others. This pattern of brutality has worsened since the 1979 Islamic Revolution. The Islamic Republic has consistently been one of the world’s worst perpetrators of crimes against journalists and information activists for the past four decades.",
-      "text2": "Rosettes of Censorship is an index of Iranian journalists, bloggers and activists who have been harassed, detained, jailed, exiled and in some cases executed by the state for their work. This live project aims to compile a comprehensive record of all journalists who have faced such treatment since 1905. We know this is an ambitious plan. We have started by working our way backwards: recording all the known cases of our own friends and colleagues who have been abused by the authorities in recent years. You can help us complete this \"Wall of Shame\" by contacting",
+      "text2": "Visualizing Censorship in Iran is an index of Iranian journalists, bloggers and activists who have been harassed, detained, jailed, exiled and in some cases executed by the state for their work. This live project aims to compile a comprehensive record of all journalists who have faced such treatment since 1905. We know this is an ambitious plan. We have started by working our way backwards: recording all the known cases of our own friends and colleagues who have been abused by the authorities in the past thirty years. You can help us complete the list by contacting",
       "mail": "info@journalismisnotacrime.com"
     },
     "controlexplainer": {
@@ -269,7 +269,7 @@
       }
     },
     "title": {
-      "heading": "گل سرخ سانسور و سرکوب در ایران ",
+      "heading": "تصویری از سانسور و سرکوب در ایران",
       "subheading": "مرور تصویری سرکوب آزادی بیان در ایران"
     },
     "intro": {
