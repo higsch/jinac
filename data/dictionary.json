@@ -1,0 +1,306 @@
+{
+  "en": {
+    "meta": {
+      "locale": "en",
+      "name": "English"
+    },
+    "grouping": {
+      "none": "None",
+      "status": "Status",
+      "gender": "Gender",
+      "occupation": "Occupation",
+      "institutioninvestigating": "Investigating Institution",
+      "institutioninvestigating_prefix": "Investigated by",
+      "province": "Province",
+      "ethnicgroup": "Ethnic Group",
+      "religoiusgroup": "Religion",
+      "other": "Other"
+    },
+    "groupingvalues": {
+      "gender": {
+        "female": "Female",
+        "male": "Male",
+        "other": "Other"
+      },
+      "status": {
+        "null": "Unknown",
+        "unknown": "Unknown",
+        "suspended_sentence": "Suspended sentence",
+        "released": "Released",
+        "killed": "Killed",
+        "in_prison": "In prison",
+        "in_exile": "In exile",
+        "awaiting_trial": "Awaiting trial",
+        "awaiting_trial;released": "Released, awaiting trial",
+        "awaiting_trial;in_prison": "In prison, awaiting trial",
+        "in_exile;released": "In exile, released",
+        "furlough": "Furlough",
+        "other": "Other"
+      },
+      "occupation": {
+        "null": "Unknown",
+        "unknown": "Unknown",
+        "social_media_activist": "Social media activist",
+        "journalist": "Journalist",
+        "civil_society_activist": "Civil society activist",
+        "artist": "Artist",
+        "academic": "Academic",
+        "student_activist": "Student activist",
+        "other": "Other"
+      },
+      "institutioninvestigating": {
+        "null": "Unknown",
+        "unknown": "Unknown",
+        "ministry_of_intelligence": "Ministry of intelligence",
+        "judiciary": "Judiciary",
+        "irgc_intelligence": "IRGC intelligence",
+        "cyber_police": "Cyber police",
+        "other": "Other"
+      },
+      "province": {
+        "null": "Unknown",
+        "unknown": "Unknown",
+        "tehran": "Tehran",
+        "bushehr": "Bushehr",
+        "khorasan_razavi": "Khorasan Razavi",
+        "fars": "Fars",
+        "west_azerbaijan": "West Azerbaijan",
+        "gilan": "Gilan",
+        "qom": "Qom",
+        "kerman": "Kerman",
+        "isfahan": "Isfahan",
+        "lorestan": "Lorestan",
+        "kermanshah": "Kermanshah",
+        "kurdistan": "Kurdistan",
+        "khuzestan": "Khuzestan",
+        "semnan": "Semnan",
+        "ardabil": "Ardabil",
+        "mazandaran": "Mazandaran",
+        "east_azerbaijan": "East Azerbaijan",
+        "ilam": "Ilam",
+        "yazd": "Yazd",
+        "hormozgān": "Hormozgan",
+        "golestan": "Golestan",
+        "sistan_and_baluchestan": "Sistan and Baluchestan",
+        "kohgiluyeh_and_boyer-ahmad": "Kohgiluyeh and Boyer-Ahmad",
+        "north_khorasan": "North Khorasan",
+        "south_khorasan": "South Khorasan",
+        "qazvin": "Qazvin",
+        "markazi": "Markazi",
+        "zanjan": "Zanjan",
+        "alborz": "Alborz",
+        "other": "Other"
+      },
+      "ethnicgroup": {
+        "null": "Unknown",
+        "unknown": "Unknown",
+        "turkmen": "Turkmen",
+        "persian": "Persian",
+        "lurs": "Lurs",
+        "kurdish": "Kurdish",
+        "baloch": "Baloch",
+        "azerbaijani": "Azerbaijani",
+        "arab": "Arab",
+        "other": "Other"
+      },
+      "religoiusgroup": {
+        "null": "Unknown",
+        "unknown": "Unknown",
+        "sunni": "Sunni",
+        "sufi": "Sufi",
+        "shia": "Shia",
+        "muslim": "Muslim",
+        "yarsani": "Yarsani",
+        "bahá'í": "Bahá'í",
+        "other": "Other"
+      }
+    },
+    "title": {
+      "heading": "Rosettes of Courage",
+      "subheading": "Researching patterns in the repression of the freedom of expression in Iran"
+    },
+    "intro": {
+      "text1": "Ever since the appearance of modern media in Iran in 1905, successive governments have systematically intimidated, imprisoned, tortured and jailed journalists and activists who use the media to share their message with others. This brutalization of journalists and information activists has worsened since the 1979 Islamic Revolution. The Islamic Republic has been one of the world’s worst enemies of journalists and information activists over the past four decades.",
+      "text2": "Our Wall of Shame is an ongoing list of journalists, bloggers and activists who have been harassed, detained, jailed, exiled and in some cases executed. The goal is to compile a comprehensive record of all journalists who have been jailed since 1905. We know this is an ambitious plan. We have started by working our way backward: recording all the examples of our friends and colleagues who have been persecuted by the authorities in recent years. You can help us complete the Wall of Shame by <a href='mailto:info@journalismisnotacrime.com' target='_blank'>contacting us</a>."
+    },
+    "controlexplainer": {
+      "text1": "Explore the data by checking different squares",
+      "text2": "and diamonds"
+    },
+    "infotitles" : {
+      "explore": "Or just explore:",
+      "journalists_are_in_prison": "journalists are in prison.",
+      "social_media_activists_are_persecuted_by_irgc_intelligence": "social media activists are persecuted by IRGC intelligence."
+    },
+    "controlpane": {
+      "grouping": "Rosette groups",
+      "coloring": "Tile colours"
+    },
+    "tooltip": {
+      "click_to_read_more": "Click tile to read more."
+    },
+    "profile": {
+      "close": "Close",
+      "last_modified": "Last modified:",
+      "last_updated": "Last updated:"
+    },
+    "other": {
+      "career": "Career",
+      "sentence": "Sentence",
+      "organisation": "Organisation"
+    },
+    "$dir": "ltr"
+  },
+  "fa": {
+    "meta": {
+      "locale": "fa",
+      "name": "فارسی"
+    },
+    "grouping": {
+      "none": "هیچ کدام",
+      "status": "وضعیت",
+      "gender": "جنسیت",
+      "occupation": "شغل",
+      "institutioninvestigating": "مقام تعقیب کننده",
+      "institutioninvestigating_prefix": "Investigated by",
+      "province": "استان",
+      "ethnicgroup": "قومیت",
+      "religoiusgroup": "مذهب",
+      "other": "سایر"
+    },
+    "groupingvalues": {
+      "gender": {
+        "female": "زن",
+        "male": "مرد",
+        "other": "سایر"
+      },
+      "status": {
+        "null": "نامعلوم",
+        "unknown": "نامعلوم",
+        "suspended_sentence": "حبس تعلیقی",
+        "released": "آزاد شده",
+        "killed": "کشته شده",
+        "in_prison": "زندانی",
+        "in_exile": "در تبعید",
+        "awaiting_trial": "در انتظار محاکمه",
+        "awaiting_trial;released": "آزاد شده, در انتظار محاکمه",
+        "awaiting_trial;in_prison": "زندانی, در انتظار محاکمه",
+        "in_exile;released": "در تبعید, آزاد شده",
+        "furlough": "مرخصی",
+        "other": "سایر"
+      },
+      "occupation": {
+        "null": "نامعلوم",
+        "unknown": "نامعلوم",
+        "social_media_activist": "فعال شبکه‌های اجتماعی",
+        "journalist": "خبرنگار",
+        "civil_society_activist": "کنشگر جامعه مدنی",
+        "artist": "هنرمند",
+        "academic": "دانشگاهی",
+        "student_activist": "فعال دانشجویی",
+        "other": "سایر"
+      },
+      "institutioninvestigating": {
+        "null": "نامعلوم",
+        "unknown": "نامعلوم",
+        "ministry_of_intelligence": "وزارت اطلاعات",
+        "judiciary": "قوه قضاییه",
+        "irgc_intelligence": "حفاظت اطلاعات سپاه پاسداران",
+        "cyber_police": "پلیس فتا",
+        "other": "سایر"
+      },
+      "province": {
+        "null": "نامعلوم",
+        "unknown": "نامعلوم",
+        "tehran": "تهران",
+        "bushehr": "بوشهر",
+        "khorasan_razavi": "خراسان رضوی",
+        "fars": "فارس",
+        "west_azerbaijan": "آذربایجان غربی",
+        "gilan": "گیلان",
+        "qom": "قم",
+        "kerman": "کرمان",
+        "isfahan": "اصفهان",
+        "lorestan": "لرستان",
+        "kermanshah": "کرمانشاه",
+        "kurdistan": "کردستان",
+        "khuzestan": "خوزستان",
+        "semnan": "سمنان",
+        "ardabil": "اردبیل",
+        "mazandaran": "مازندران",
+        "east_azerbaijan": "آذربایجان شرقی",
+        "ilam": "ایلام",
+        "yazd": "یزد",
+        "hormozgān": "هرمزگان",
+        "golestan": "گلستان",
+        "sistan_and_baluchestan": "سیستان و بلوچستان",
+        "kohgiluyeh_and_boyer-ahmad": "کهگیلویه و بویر احمد",
+        "north_khorasan": "خراسان شمالی",
+        "south_khorasan": "خراسان جنوبی",
+        "qazvin": "قزوین",
+        "markazi": "مرکزی",
+        "zanjan": "زنجان",
+        "alborz": "البرز",
+        "other": "سایر"
+      },
+      "ethnicgroup": {
+        "null": "نامعلوم",
+        "unknown": "نامعلوم",
+        "turkmen": "ترکمن",
+        "persian": "فارس",
+        "lurs": "لر",
+        "kurdish": "کرد",
+        "baloch": "بلوچ",
+        "azerbaijani": "آذری",
+        "arab": "عرب",
+        "other": "سایر"
+      },
+      "religoiusgroup": {
+        "null": "نامعلوم",
+        "unknown": "نامعلوم",
+        "sunni": "سنی",
+        "sufi": "صوفی",
+        "shia": "شیعه",
+        "muslim": "مسلمان",
+        "yarsani": "یارسانی",
+        "bahá'í": "بهایی",
+        "other": "سایر"
+      }
+    },
+    "title": {
+      "heading": "گل سرخ شجاعت",
+      "subheading": "Researching patterns in the repression of the freedom of expression in Iran"
+    },
+    "intro": {
+      "text1": "از شروع پیدایش رسانه های مدرن در دوران مشروطه تا کنون، خبرنگاران همواره برای انجام وظیفه خود با موانع مختلفی رو به رو بوده‌اند. در این مدت صد‌ها خبرنگار ایرانی تهدید، دستگیر، زندانی، شکنجه و کشته شده‌اند.",
+      "text2": "به دلیل شفاف نبودن آمار و اطلاعات در ایران تخمین تعداد واقعی خبرنگارانی که مورد آزار و اذیت قرار گرفته اند، امکان پذیر نیست. از شروع جنبش سبز در سال ۱۳۸۸ تا کنون، ایران همواره در لیست ده زندان بزرگ خبرنگاران بوده است. فهرست زیر اسامی برخی از خبرنگارانی که از سال ۱۳۸۸ تاکنون زندانی شده اند را در بر می‌گیرد. هدف ما ثبت نام و بیوگرافی تمام خبرنگاران ایرانی است که از دوران مشروطه تا کنون دستگیر و زندانی شده‌اند. این لیست در حال کامل شدن است. همه شهروندان می‌توانند در تکمیل این لیست به ما کمک کنند."
+    },
+    "controlexplainer": {
+      "text1": "Explore the data by checking different squares",
+      "text2": "and diamonds"
+    },
+    "infotitles" : {
+      "explore": ":یا فقط گشت بزنید",
+      "journalists_are_in_prison": ".خبرنگاران در زندان هستند",
+      "social_media_activists_are_persecuted_by_irgc_intelligence": ".فعالان شبکه‌های اجتماعی توسط حفاظت اطلاعات سپاه پاسداران مورد تعقیب قرار می‌گیرند"
+    },
+    "controlpane": {
+      "grouping": "گروه",
+      "coloring": "رنگ"
+    },
+    "tooltip": {
+      "click_to_read_more": ".برای مطالعه بیشتر اینجا کلیک کنید"
+    },
+    "profile": {
+      "close": "Close",
+      "last_modified": ":آخرین تغییر",
+      "last_updated": ":آخرین به روز رسانی"
+    },
+    "other": {
+      "career": "حرفه",
+      "sentence": "حکم",
+      "organisation": "سازمان"
+    },
+    "$dir": "rtl"
+  }
+}
