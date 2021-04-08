@@ -116,12 +116,13 @@
       }
     },
     "title": {
-      "heading": "Rosettes of Courage",
-      "subheading": "Researching patterns in the repression of the freedom of expression in Iran"
+      "heading": "Rosettes of Censorship and Persecution in Iran",
+      "subheading": "Patterns in the repression of freedom of expression in Iran"
     },
     "intro": {
-      "text1": "Ever since the appearance of modern media in Iran in 1905, successive governments have systematically intimidated, imprisoned, tortured and jailed journalists and activists who use the media to share their message with others. This brutalization of journalists and information activists has worsened since the 1979 Islamic Revolution. The Islamic Republic has been one of the world’s worst enemies of journalists and information activists over the past four decades.",
-      "text2": "Our Wall of Shame is an ongoing list of journalists, bloggers and activists who have been harassed, detained, jailed, exiled and in some cases executed. The goal is to compile a comprehensive record of all journalists who have been jailed since 1905. We know this is an ambitious plan. We have started by working our way backward: recording all the examples of our friends and colleagues who have been persecuted by the authorities in recent years. You can help us complete the Wall of Shame by <a href='mailto:info@journalismisnotacrime.com' target='_blank'>contacting us</a>."
+      "text1": "Since Iran’s Constitutional Revolution in 1905 and the birth of modern media in the country, successive Iranian governments have intimidated, imprisoned, tortured and killed journalists and activists who use the media to share information with others. This pattern of brutality has worsened since the 1979 Islamic Revolution. The Islamic Republic has consistently been one of the world’s worst perpetrators of crimes against journalists and information activists for the past four decades.",
+      "text2": "Rosettes of Censorship is an index of Iranian journalists, bloggers and activists who have been harassed, detained, jailed, exiled and in some cases executed by the state for their work. This live project aims to compile a comprehensive record of all journalists who have faced such treatment since 1905. We know this is an ambitious plan. We have started by working our way backwards: recording all the known cases of our own friends and colleagues who have been abused by the authorities in recent years. You can help us complete this \"Wall of Shame\" by contacting",
+      "mail": "info@journalismisnotacrime.com"
     },
     "controlexplainer": {
       "text1": "Explore the data by checking different squares",
@@ -162,7 +163,7 @@
       "gender": "جنسیت",
       "occupation": "شغل",
       "institutioninvestigating": "مقام تعقیب کننده",
-      "institutioninvestigating_prefix": "Investigated by",
+      "institutioninvestigating_prefix": "بررسی شده توسط",
       "province": "استان",
       "ethnicgroup": "قومیت",
       "religoiusgroup": "مذهب",
@@ -268,16 +269,17 @@
       }
     },
     "title": {
-      "heading": "گل سرخ شجاعت",
-      "subheading": "Researching patterns in the repression of the freedom of expression in Iran"
+      "heading": "گل سرخ سانسور و سرکوب در ایران ",
+      "subheading": "مرور تصویری سرکوب آزادی بیان در ایران"
     },
     "intro": {
-      "text1": "از شروع پیدایش رسانه های مدرن در دوران مشروطه تا کنون، خبرنگاران همواره برای انجام وظیفه خود با موانع مختلفی رو به رو بوده‌اند. در این مدت صد‌ها خبرنگار ایرانی تهدید، دستگیر، زندانی، شکنجه و کشته شده‌اند.",
-      "text2": "به دلیل شفاف نبودن آمار و اطلاعات در ایران تخمین تعداد واقعی خبرنگارانی که مورد آزار و اذیت قرار گرفته اند، امکان پذیر نیست. از شروع جنبش سبز در سال ۱۳۸۸ تا کنون، ایران همواره در لیست ده زندان بزرگ خبرنگاران بوده است. فهرست زیر اسامی برخی از خبرنگارانی که از سال ۱۳۸۸ تاکنون زندانی شده اند را در بر می‌گیرد. هدف ما ثبت نام و بیوگرافی تمام خبرنگاران ایرانی است که از دوران مشروطه تا کنون دستگیر و زندانی شده‌اند. این لیست در حال کامل شدن است. همه شهروندان می‌توانند در تکمیل این لیست به ما کمک کنند."
+      "text1": "از شروع پیدایش رسانه‌های مدرن در ایران از دوران مشروطه تاکنون، خبرنگاران و شهروندان همواره به دلیل اطلاع‌رسانی بازداشت، زندانی شکنجه و کشته شده‌اند.  فهرست زیر اسامی برخی از خبرنگاران و فعالان رسانه‌ای را در بر می‌گیرد که در سه دهه اخیر تاکنون دستگیر و زندانی شده‌اند. به دلیل شفاف نبودن آمار و اطلاعات در ایران، تخمین تعداد واقعی خبرنگارانی که مورد آزار و اذیت قرار گرفته‌اند، امکان‌پذیر نیست.",
+      "text2": "از شروع جنبش سبز در سال ۱۳۸۸ تا به‌حال، ایران همواره در لیست ده زندان بزرگ خبرنگاران بوده است. هدف ما ثبتِ نام و بیوگرافی تمام خبرنگاران ایرانی است که از دوران مشروطه تا به امروز دستگیر و زندانی شده‌اند. این لیست در حال کامل شدن است. همه شهروندان می‌توانند در تکمیل این لیست به ما کمک کنند. لطفا با این ایمیل در تماس",
+      "mail": "info@journalismisnotacrime.com"
     },
     "controlexplainer": {
-      "text1": "Explore the data by checking different squares",
-      "text2": "and diamonds"
+      "text1": "با استفاده از مربع و لوزی اطلاعات",
+      "text2": "را مرور کنید"
     },
     "infotitles" : {
       "explore": ":یا فقط گشت بزنید",
@@ -292,7 +294,7 @@
       "click_to_read_more": ".برای مطالعه بیشتر اینجا کلیک کنید"
     },
     "profile": {
-      "close": "Close",
+      "close": "بستن",
       "last_modified": ":آخرین تغییر",
       "last_updated": ":آخرین به روز رسانی"
     },
