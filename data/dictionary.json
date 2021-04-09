@@ -134,8 +134,8 @@
       "social_media_activists_are_persecuted_by_irgc_intelligence": "social media activists are persecuted by IRGC intelligence."
     },
     "controlpane": {
-      "grouping": "Rosette groups",
-      "coloring": "Tile colours"
+      "grouping": "Overview",
+      "coloring": "Breakdown"
     },
     "tooltip": {
       "click_to_read_more": "Click tile to read more."
@@ -278,8 +278,9 @@
       "mail": "info@journalismisnotacrime.com"
     },
     "controlexplainer": {
-      "text1": "با استفاده از مربع و لوزی اطلاعات",
-      "text2": "را مرور کنید"
+      "text1": "با استفاده از مربع",
+      "text2": "و لوزی",
+      "text3": "اطلاعات را مرور کنید"
     },
     "infotitles" : {
       "explore": ":یا فقط گشت بزنید",
@@ -287,8 +288,8 @@
       "social_media_activists_are_persecuted_by_irgc_intelligence": ".فعالان شبکه‌های اجتماعی توسط حفاظت اطلاعات سپاه پاسداران مورد تعقیب قرار می‌گیرند"
     },
     "controlpane": {
-      "grouping": "گروه",
-      "coloring": "رنگ"
+      "grouping": "نمای کلی",
+      "coloring": "گروه بندی"
     },
     "tooltip": {
       "click_to_read_more": ".برای مطالعه بیشتر اینجا کلیک کنید"
